@@ -68,3 +68,6 @@ Calle del Vergel Nuevo 125
 Colonia Centro, CP 98000  
 Zacatecas, Mexico
 
+## Additional Resources
+
+- [Solutions Overview](https://www.fireballz.ai/solutions)
