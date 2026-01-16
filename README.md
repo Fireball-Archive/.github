@@ -59,3 +59,12 @@ This repository contains historical documentation, deprecated projects, and refe
 
 ### Office Locations
 
+**United States**  
+1410 Highland Rd #1  
+Macedonia, OH 44056
+
+**Mexico**  
+Calle del Vergel Nuevo 125  
+Colonia Centro, CP 98000  
+Zacatecas, Mexico
+
