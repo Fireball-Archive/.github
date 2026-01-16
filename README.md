@@ -78,5 +78,6 @@ Zacatecas, Mexico
 
 **Written by:** Patrick Ryan, Chief Technology Officer  
 **Copyright:** © 2025 Fireball Industries. All Rights Reserved
+**Ignite your factory effeciency**
 
 *Smarter automation. Real ROI. Total control.*
