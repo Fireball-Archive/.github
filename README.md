@@ -42,3 +42,12 @@ We integrate smarter, not harder. Born from frustration with costly proprietary 
 - 💰 **ROI Within Months** - Immediate tangible benefits
 - 🏭 **Factory-Wide Integration** - Seamless operations from production floor to cloud
 
+## Archive Contents
+
+This repository contains historical documentation, deprecated projects, and reference materials from past Fireball Industries initiatives. These resources are maintained for:
+
+- Historical reference and knowledge preservation
+- Compliance and documentation purposes
+- Learning from past implementations
+- Supporting legacy system maintenance
+
