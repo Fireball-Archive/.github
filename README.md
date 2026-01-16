@@ -71,3 +71,4 @@ Zacatecas, Mexico
 ## Additional Resources
 
 - [Solutions Overview](https://www.fireballz.ai/solutions)
+- [Partner With Us](https://www.fireballz.ai/contact-us)
