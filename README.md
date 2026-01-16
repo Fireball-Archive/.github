@@ -51,3 +51,9 @@ This repository contains historical documentation, deprecated projects, and refe
 - Learning from past implementations
 - Supporting legacy system maintenance
 
+## Contact Information
+
+**Website:** [fireballz.ai](https://fireballz.ai)  
+**Email:** info@fireballz.ai  
+**Phone:** 1-855-693-7225
+
