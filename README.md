@@ -27,3 +27,5 @@ We integrate smarter, not harder. Born from frustration with costly proprietary 
 - Automotive Manufacturing
 - Oil & Gas Extraction & Refining
 - Aerospace & Defense
+- Packaging & Logistics
+- Chemical Processing
