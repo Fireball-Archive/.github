@@ -23,3 +23,5 @@ We integrate smarter, not harder. Born from frustration with costly proprietary 
 - **Manufacturing Equipment** - Brokerage, modernization, process optimization, and TÜV machine safety assessments
 
 ## Industries Served
+
+- Automotive Manufacturing
