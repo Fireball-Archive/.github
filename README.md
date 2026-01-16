@@ -29,3 +29,9 @@ We integrate smarter, not harder. Born from frustration with costly proprietary 
 - Aerospace & Defense
 - Packaging & Logistics
 - Chemical Processing
+- Pharmaceutical Production
+- Electronics Manufacturing
+- Power Generation & Utilities
+- Food & Beverage Processing
+- Metal Fabrication & Machining
+
