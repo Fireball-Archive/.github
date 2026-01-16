@@ -75,3 +75,6 @@ Zacatecas, Mexico
 - [Get a Quote](https://www.fireballz.ai/get-a-quote)
 
 ---
+
+**Written by:** Patrick Ryan, Chief Technology Officer  
+**Copyright:** © 2025 Fireball Industries. All Rights Reserved
