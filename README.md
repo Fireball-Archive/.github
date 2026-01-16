@@ -25,3 +25,5 @@ We integrate smarter, not harder. Born from frustration with costly proprietary 
 ## Industries Served
 
 - Automotive Manufacturing
+- Oil & Gas Extraction & Refining
+- Aerospace & Defense
